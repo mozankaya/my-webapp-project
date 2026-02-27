@@ -1,0 +1,6 @@
+dao\package-info.class
+model\package-info.class
+model\Task.class
+servlet\TasksServlet.class
+dao\TaskDAO.class
+servlet\package-info.class
